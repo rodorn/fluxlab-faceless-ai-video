@@ -1,0 +1,12 @@
+# Rdzen pipeline'u dziala bez zewnetrznych bibliotek (stdlib + ffmpeg systemowy).
+# Ponizsze sa opcjonalne, potrzebne tylko dla trybu realnego (z kluczami API).
+
+# Generowanie scenariusza (jeden z providerow):
+openai>=1.30.0
+anthropic>=0.34.0
+
+# Lektor ElevenLabs oraz publikacja TikTok/YouTube (HTTP):
+requests>=2.31.0
+
+# Testy:
+pytest>=8.0.0
