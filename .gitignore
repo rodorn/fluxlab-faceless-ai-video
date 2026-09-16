@@ -1,5 +1,7 @@
 venv/
 .venv/
+.venv-tts/
+models/
 __pycache__/
 *.pyc
 .env
@@ -9,3 +11,4 @@ __pycache__/
 out/
 .pytest_cache/
 .DS_Store
+/build_demo*.py
