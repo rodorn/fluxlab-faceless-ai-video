@@ -1,5 +1,7 @@
 # Faceless AI Video Pipeline
 
+> Wdrażamy AI w procesach firm: [fluxlab.pl/automatyzacja-ai](https://fluxlab.pl/automatyzacja-ai?utm_source=github&utm_campaign=fluxlab-faceless-ai-video)
+
 Automatyczny potok do kanalu typu "faceless AI" na TikToka i YouTube Shorts:
 scenariusz, lektor po polsku, napisy, montaz i publikacja. Zbudowany pod realny
 scenariusz uzycia (kanal stylizacyjny), z mysla o 1-2 filmach dziennie.
